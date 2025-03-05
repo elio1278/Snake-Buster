@@ -26,14 +26,14 @@ A simple Snake game for the command line, built using JavaScript and the blessed
    Install dependencies:
 
 2. npm install and blessed install
-```sh
+ ```sh
   npm install
   npm install blessed
-```
+   ```
 3. Run the game:
 ```sh
   node snake.js
-```
+   ```
 
 ## Controls
 
