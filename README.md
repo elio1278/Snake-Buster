@@ -19,7 +19,7 @@ A simple Snake game for the command line, built using JavaScript and the blessed
 ### Steps
 
 1. Clone the repository:
-   ```sh
+ ```sh
    git clone https://github.com/elio1278/Snake-Buster.git
    cd cli-snake-game
    ```
